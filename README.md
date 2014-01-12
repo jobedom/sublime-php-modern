@@ -15,7 +15,7 @@ This is a work in progress. Pull requests are welcome.
 The recommended way to install and keep up to date is to install it via
 [Package Control]. Once you have installed Package Control, open it via
 `Preferences -> Package Control` and click on
-`Package Control: Install Package`. Type `PHP Completions Kit` into the search
+`Package Control: Install Package`. Type `PHP Modern` into the search
 box, then hit enter or click on the result to install.
 
 [Package Control]: https://sublime.wbond.net/installation

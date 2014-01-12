@@ -2039,10 +2039,6 @@
 				</dict>
 				<dict>
 					<key>include</key>
-					<string>#sql-string-double-quoted</string>
-				</dict>
-				<dict>
-					<key>include</key>
 					<string>#string-double-quoted</string>
 				</dict>
 				<dict>

@@ -1,8 +1,8 @@
 # PHP Modern
 
-Sublime Text syntax definition for current PHP and its companion theme Baara Dark.
+Sublime Text syntax definition for current PHP version. It goes well with its companion theme [Baara Dark](https://github.com/jobedom/sublime-baara-dark).
 
-![Screenshot](https://raw.github.com/jobedom/sublime-php-modern/master/screenshot.png)
+![Screenshot](https://raw.github.com/jobedom/sublime-baara-dark/master/screenshot.png)
 
 The objective of this package is keeping PHP language definition up to date with PHP
 syntax changes. Notice the PHP code in the screenshot is pure gobbledygook.

@@ -4,7 +4,7 @@ Sublime Text syntax definition for current PHP and its companion theme Baara Dar
 
 ![Screenshot](https://raw.github.com/jobedom/sublime-php-modern/master/screenshot.png)
 
-The objective of this package is keeping PHP language definition up to date with PHP syntax changes.
+The objective of this package is keeping PHP language definition up to date with PHP syntax changes. Notice the PHP code in the screenshot is pure gobbledygook.
 
 This is a work in progress. Pull requests are welcome.
 

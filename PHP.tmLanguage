@@ -2047,10 +2047,6 @@
 				</dict>
 				<dict>
 					<key>include</key>
-					<string>#sql-string-single-quoted</string>
-				</dict>
-				<dict>
-					<key>include</key>
 					<string>#string-single-quoted</string>
 				</dict>
 			</array>

@@ -284,19 +284,19 @@
 					<key>match</key>
 					<string>\\[0-7]{1,3}</string>
 					<key>name</key>
-					<string>constant.numeric.octal.php</string>
+					<string>constant.numeric.octal.interpolation.php</string>
 				</dict>
 				<dict>
 					<key>match</key>
 					<string>\\x[0-9A-Fa-f]{1,2}</string>
 					<key>name</key>
-					<string>constant.numeric.hex.php</string>
+					<string>constant.numeric.hex.interpolation.php</string>
 				</dict>
 				<dict>
 					<key>match</key>
 					<string>\\[nrt\\\$\"]</string>
 					<key>name</key>
-					<string>constant.character.escape.php</string>
+					<string>constant.character.escape.interpolation.php</string>
 				</dict>
 				<dict>
 					<key>comment</key>

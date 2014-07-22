@@ -1445,6 +1445,47 @@
 					</array>
 				</dict>
 				<dict>
+					<key>begin</key>
+					<string>(?=&lt;&lt;&lt;\s*('?)([a-zA-Z_]+[a-zA-Z0-9_]*)(\1)\s*$)</string>
+					<key>beginCaptures</key>
+					<dict>
+						<key>1</key>
+						<dict>
+							<key>name</key>
+							<string>punctuation.definition.string.php</string>
+						</dict>
+						<key>2</key>
+						<dict>
+							<key>name</key>
+							<string>keyword.operator.nowdoc.php</string>
+						</dict>
+					</dict>
+					<key>end</key>
+					<string>^(\2)(;?)$</string>
+					<key>endCaptures</key>
+					<dict>
+						<key>1</key>
+						<dict>
+							<key>name</key>
+							<string>keyword.operator.nowdoc.php</string>
+						</dict>
+						<key>2</key>
+						<dict>
+							<key>name</key>
+							<string>punctuation.definition.string.php</string>
+						</dict>
+					</dict>
+					<key>name</key>
+					<string>string.unquoted.nowdoc.php</string>
+					<key>patterns</key>
+					<array>
+						<dict>
+							<key>include</key>
+							<string>#string-single-quoted</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
 					<key>match</key>
 					<string>=&gt;</string>
 					<key>name</key>

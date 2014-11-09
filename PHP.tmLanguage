@@ -1603,7 +1603,7 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(?&lt;=[a-zA-Z0-9_\x{7f}-\x{ff}])(-&gt;)([a-zA-Z_\x{7f}-\x{ff}][a-zA-Z0-9_\x{7f}-\x{ff}]*?)\b</string>
+					<string>(?&lt;=[a-zA-Z0-9_\x{7f}-\x{ff}])(-&gt;)([a-zA-Z_\x{7f}-\x{ff}][a-zA-Z0-9_\x{7f}-\x{ff}]*?)\b(?!\()</string>
 				</dict>
 				<dict>
 					<key>include</key>
@@ -1652,7 +1652,7 @@
     				(?:
     				    (\\[A-Za-z_][\\A-Za-z_0-9]*)\s*\(
     				    |
-    				    ((\$+)?[a-zA-Z_\x{7f}-\x{ff}][a-zA-Z0-9_\x{7f}-\x{ff}]*)
+    				    ((\$+)?[a-zA-Z_\x{7f}-\x{ff}][a-zA-Z0-9_\x{7f}-\x{ff}]*)\b(?!\()
     				)?</string>
 		</dict>
 		<key>parameter-default-types</key>

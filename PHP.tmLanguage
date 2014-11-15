@@ -891,7 +891,7 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(?i)^\s*(namespace)\s+([\\a-zA-Z0-9_]*)\s*</string>
+					<string>(?i)\s*(namespace)\s+([\\a-zA-Z0-9_]*)\s*</string>
 					<key>name</key>
 					<string>keyword.control.php</string>
 				</dict>

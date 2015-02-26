@@ -1650,7 +1650,7 @@
 			<key>match</key>
 			<string>(?x)(-&gt;)
     				(?:
-    				    (\\[A-Za-z_][\\A-Za-z_0-9]*)\s*\(
+    				    ([A-Za-z_][A-Za-z_0-9]*)\s*\(
     				    |
     				    ((\$+)?[a-zA-Z_\x{7f}-\x{ff}][a-zA-Z0-9_\x{7f}-\x{ff}]*)\b(?!\()
     				)?</string>

@@ -1,4 +1,4 @@
 {
-   "install": "deprecated.txt",
-   "1.0.8": "deprecated.txt"
+   "install": "messages/deprecated.txt",
+   "1.0.8": "messages/deprecated.txt"
 }

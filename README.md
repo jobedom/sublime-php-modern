@@ -1,5 +1,9 @@
 # PHP Modern
 
+**IMPORTANT:** Development of this package has stopped now that standard Sublime packages are Open Source. I'll be integrating changes in the official PHP package (everybody wins, me first). Thanks jbrooksuk for the suggestion in issue #17.
+
+---------------
+
 Sublime Text syntax definition for current PHP version. It goes well with its companion theme [Baara Dark](https://github.com/jobedom/sublime-baara-dark).
 
 ![Screenshot](https://raw.github.com/jobedom/sublime-baara-dark/master/screenshot.png)

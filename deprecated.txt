@@ -1,0 +1,9 @@
+# PHP Modern
+
+**IMPORTANT:** Development of this package has stopped now that 
+standard Sublime packages are Open Source. I'll be integrating 
+changes in the official PHP package (everybody wins, me first). 
+
+Please, remove this package now.
+
+Thanks jbrooksuk for the suggestion in issue #17.

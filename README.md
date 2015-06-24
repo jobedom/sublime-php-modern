@@ -1,6 +1,6 @@
 # PHP Modern
 
-**IMPORTANT:** Development of this package has stopped now that standard Sublime packages are Open Source. I'll be integrating changes in the official PHP package (everybody wins, me first). Thanks jbrooksuk for the suggestion in issue #17.
+**IMPORTANT:** Development of this package has stopped now that standard Sublime packages are [Open Source](https://github.com/sublimehq/Packages/tree/master/PHP). I'll be integrating changes in the official PHP package (everybody wins, me first). Thanks jbrooksuk for the suggestion in issue #17.
 
 ---------------
 
